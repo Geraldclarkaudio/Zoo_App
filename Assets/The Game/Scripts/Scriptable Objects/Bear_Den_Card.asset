@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffac179d4b08954c986610a47a223d5, type: 3}
+  m_Name: Bear_Den_Card
+  m_EditorClassIdentifier: 
+  title: BEAR DEN
+  description: 'LARGE POPULATIONS OF BEARS INHABIT NORTH AMERICA AND THROUGHOUT THE
+    WORLD. '
+  exhibit: 'ANIMALS IN THIS EXHIBIT INCLUDE: BROWN BEAR, BLACK BEAR, POLAR BEARS'
+  animalImg: {fileID: 21300000, guid: c323ddf58bf76144196899edda53ca26, type: 3}

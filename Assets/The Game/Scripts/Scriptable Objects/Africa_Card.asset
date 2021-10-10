@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffac179d4b08954c986610a47a223d5, type: 3}
+  m_Name: Africa_Card
+  m_EditorClassIdentifier: 
+  title: AFRICA
+  description: AFRICA IS HOME TO MANY OF THE WORLD'S MOST FAMOUS ANIMALS. ZEBRAS,
+    GIRAFFES, HIPPOS, AND CROCODILES ARE ALL FOUND IN THE WILD ON THIS CONTINENT.
+  exhibit: 'ANIMALS IN THIS EXHIBIT INCLUDE: GIRAFFES, ZEBRAS, CROCODILES, AND AFRICAN
+    HARE.'
+  animalImg: {fileID: 21300000, guid: 1bcea4ad94e1bbd45bcdb8a6aeaa9ab9, type: 3}
